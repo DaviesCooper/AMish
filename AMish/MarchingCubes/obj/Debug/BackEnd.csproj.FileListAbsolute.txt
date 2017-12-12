@@ -1,0 +1,13 @@
+C:\Users\Cooper\Documents\Work\NovaChem\AMish\MarchingCubes\bin\Debug\AmishServer.exe.config
+C:\Users\Cooper\Documents\Work\NovaChem\AMish\MarchingCubes\bin\Debug\AmishServer.exe
+C:\Users\Cooper\Documents\Work\NovaChem\AMish\MarchingCubes\bin\Debug\AmishServer.pdb
+C:\Users\Cooper\Documents\Work\NovaChem\AMish\MarchingCubes\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Cooper\Documents\Work\NovaChem\AMish\MarchingCubes\obj\Debug\AmishServer.exe
+C:\Users\Cooper\Documents\Work\NovaChem\AMish\MarchingCubes\obj\Debug\AmishServer.pdb
+C:\Users\Cooper\Documents\Work\NovaChem\BackEnd\AMish\MarchingCubes\bin\Debug\AmishServer.exe.config
+C:\Users\Cooper\Documents\Work\NovaChem\BackEnd\AMish\MarchingCubes\bin\Debug\AmishServer.exe
+C:\Users\Cooper\Documents\Work\NovaChem\BackEnd\AMish\MarchingCubes\bin\Debug\AmishServer.pdb
+C:\Users\Cooper\Documents\Work\NovaChem\BackEnd\AMish\MarchingCubes\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Cooper\Documents\Work\NovaChem\BackEnd\AMish\MarchingCubes\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Cooper\Documents\Work\NovaChem\BackEnd\AMish\MarchingCubes\obj\Debug\AmishServer.exe
+C:\Users\Cooper\Documents\Work\NovaChem\BackEnd\AMish\MarchingCubes\obj\Debug\AmishServer.pdb
